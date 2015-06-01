@@ -1,4 +1,4 @@
-:beers: # Homebrew Porters
+# :beers: Homebrew Porters
 
 This is a Homebrew/Cask Tap containing mostly a collection of *nightly-built* formulae:
 
