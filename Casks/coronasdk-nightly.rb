@@ -1,6 +1,6 @@
 cask :v1 => 'coronasdk-nightly' do
 
-  version '2015.2666'
+  version '2015.2700'
   sha256 :no_check
   url "https://developer.coronalabs.com/sites/default/files/corona/#{version}/CoronaSDK-#{version}.dmg"
 
